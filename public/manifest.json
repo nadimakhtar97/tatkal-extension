@@ -1,0 +1,9 @@
+{
+    "name": "Tatkal Extension",
+    "description": "This is an extension to book takal tickets on irctc",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+      }
+  }
